@@ -1,0 +1,7 @@
+INDEX VERSION 1.132+C:\Users\assum\OneDrive\Documentos\workspace\atividade5\.metadata\.plugins\org.eclipse.jdt.core
+3393883626.index
+3253332668.index
+4059858016.index
+150674700.index
+3965363001.index
+2721439463.index
